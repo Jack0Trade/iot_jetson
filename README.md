@@ -1,5 +1,3 @@
-# iot_jetson
-
 Install Serial-To-USB Driver:
 Add serial-to-usb driver to establish communication between Jetson device and micro-controller:
 
