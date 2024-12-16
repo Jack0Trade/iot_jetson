@@ -68,7 +68,7 @@
 1. **Clone the Repository**:
    - Run the following command in your terminal:
      ```bash
-     git clone https://github.com/theniceduck/jetson-iot.git
+     git clone https://github.com/Jack0Trade/iot_jetson.git
      ```
 
 2. **Rename and Update the Configuration File**:
